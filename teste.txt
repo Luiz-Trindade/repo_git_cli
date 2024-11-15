@@ -1,0 +1,2 @@
+Olá, Mundo!
+Primeiro repositório GIT com linha de comando!
